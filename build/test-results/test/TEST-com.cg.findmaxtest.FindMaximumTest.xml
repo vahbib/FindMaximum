@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cg.findmaxtest.FindMaximumTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-15T17:15:20" hostname="DESKTOP-9T3G1G1" time="0.028">
+  <properties/>
+  <testcase name="Test" classname="com.cg.findmaxtest.FindMaximumTest" time="0.013"/>
+  <testcase name="TestF" classname="com.cg.findmaxtest.FindMaximumTest" time="0.01"/>
+  <testcase name="TestS" classname="com.cg.findmaxtest.FindMaximumTest" time="0.001"/>
+  <system-out><![CDATA[Maximum of given Integers is: 56
+Maximum of given Float Numbers is: 56.0
+Maximum of given String is: C
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
