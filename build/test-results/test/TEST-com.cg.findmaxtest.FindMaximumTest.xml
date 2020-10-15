@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cg.findmaxtest.FindMaximumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-15T18:53:57" hostname="DESKTOP-9T3G1G1" time="0.006">
+  <properties/>
+  <testcase name="maximumTest" classname="com.cg.findmaxtest.FindMaximumTest" time="0.006"/>
+  <system-out><![CDATA[Maximum is: 100
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
